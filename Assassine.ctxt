@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Assassine
+comment1.params=
+comment1.target=Assassine()
+comment2.params=pMensch
+comment2.target=void\ setMensch(Mensch)
+numComments=3

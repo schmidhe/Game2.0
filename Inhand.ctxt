@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Inhand
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Inhand.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Inhand()
+comment2.params=
+comment2.target=Gegenstand\ getInhand()
+comment3.params=pMensch\ l\ Slot
+comment3.target=void\ setInhand(Mensch,\ Gegenstand,\ int)
+numComments=4

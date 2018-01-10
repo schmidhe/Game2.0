@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Welt
+comment1.params=
+comment1.target=Welt()
+comment2.params=
+comment2.target=void\ Erstellemap()
+comment3.params=z\ h
+comment3.target=Gegenstand\ mapget(int,\ int)
+comment4.params=i\ x
+comment4.target=java.lang.String\ getName(int,\ int)
+comment5.params=i\ x
+comment5.target=boolean\ aufhebbar(int,\ int)
+comment6.params=i\ x
+comment6.target=boolean\ Monster(int,\ int)
+comment7.params=h\ j\ u
+comment7.target=void\ set(int,\ int,\ Gegenstand)
+numComments=8
